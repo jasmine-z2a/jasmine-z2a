@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-z2a)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine-z2a&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine-z2a)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasmine-z2a)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jasmine-z2a/jasmine-z2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
